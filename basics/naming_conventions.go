@@ -1,6 +1,6 @@
 package basics
 
-func basics() {
+func main() {
 	//pascalCase
 	//ex.  CalculateArea,UserInfo
 	//use in structs,interfaces,enums
